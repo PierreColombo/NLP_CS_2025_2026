@@ -32,12 +32,12 @@ The following papers are available for presentation. Choose one that interests y
 | Data | The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale | https://arxiv.org/abs/2406.17557 |
 | Multilingual Models | EuroLLM: Multilingual Language Models for Europe | https://arxiv.org/abs/2409.16235 |
 | Multilingual Models | EuroBERT: Scaling Multilingual Encoders for European Languages | https://arxiv.org/abs/2503.05500 |
-| Fine-Tuning | Scaling Instruction-Finetuned Language Models | https://arxiv.org/abs/2210.11416 |
-| Fine-Tuning | Tower: An Open Multilingual Large Language Model for Translation-Related Tasks | https://arxiv.org/abs/2402.17733 |
-| Fine-Tuning | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks | https://arxiv.org/abs/1908.10084 |
-| Fine-Tuning | Dense Passage Retrieval for Open-Domain Question Answering | https://arxiv.org/abs/2004.04906 |
-| Fine-Tuning | LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders | https://arxiv.org/abs/2404.05961 |
-| Fine-Tuning | LoRA: Low-Rank Adaptation of Large Language Models | https://arxiv.org/abs/2106.09685 |
+| Instruction Tuning | Scaling Instruction-Finetuned Language Models | https://arxiv.org/abs/2210.11416 |
+| Instruction Tuning | Tower: An Open Multilingual Large Language Model for Translation-Related Tasks | https://arxiv.org/abs/2402.17733 |
+| Embeddings | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks | https://arxiv.org/abs/1908.10084 |
+| Embeddings | Dense Passage Retrieval for Open-Domain Question Answering | https://arxiv.org/abs/2004.04906 |
+| Embeddings | LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders | https://arxiv.org/abs/2404.05961 |
+| Efficiency | LoRA: Low-Rank Adaptation of Large Language Models | https://arxiv.org/abs/2106.09685 |
 | Evaluation | BERTScore: Evaluating Text Generation with BERT | https://arxiv.org/abs/1904.09675 |
 | Evaluation | COMET: A Neural Framework for MT Evaluation | https://arxiv.org/abs/2009.09025 |
 | Evaluation | MTEB: Massive Text Embedding Benchmark| https://arxiv.org/abs/2210.07316 |
