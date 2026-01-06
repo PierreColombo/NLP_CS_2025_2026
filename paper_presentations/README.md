@@ -1,6 +1,6 @@
 # Paper Presentation Guidelines
 
-Welcome to the Advanced NLP class for CS students! This section outlines the rules for your paper presentations. Your presentation will constitute a significant portion of your final grade—50%—so following these guidelines is crucial for success.
+Welcome to the Advanced NLP class for CS students! This section outlines the rules for your paper presentations. Since the presentation accounts for your entire final grade, it is essential to follow these instructions carefully.
 
 ## Presentation Duration
 
