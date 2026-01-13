@@ -16,7 +16,7 @@ Bienvenue dans le cours de **Traitement Automatique du Langage Naturel (NLP)** !
 - **Céline Hudelot**  
   🔗 https://scholar.google.com/citations?user=gFlAh6MAAAAJ&hl=fr  
 
-- **Quentin Massé**  
+- **Quentin Macé**  
   🔗 https://scholar.google.com/citations?user=Dfo-AhsAAAAJ&hl=fr  
 
 ## 🎥 Premiers cours
